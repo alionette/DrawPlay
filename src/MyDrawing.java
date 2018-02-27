@@ -1,3 +1,8 @@
+/*Editors: Austin Lionette, Jordan Ritchie
+ * 
+ */
+
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
